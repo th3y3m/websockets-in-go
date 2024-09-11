@@ -8,7 +8,6 @@ This repository contains a simple chat application built using Go and WebSockets
 
 - Real-time messaging using WebSockets
 - Multiple chat rooms
-- User authentication and registration
 - RESTful API for managing users, messages, and rooms
 
 #### Connect me via: truongtanhuy3006@gmail.com
